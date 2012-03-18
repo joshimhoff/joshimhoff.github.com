@@ -1,0 +1,11 @@
+---
+layout: default
+title: A Place to Write Things Down
+---
+ 
+{% for post in site.posts %}
+  <a href='{{ post.url }}'>
+    <h3>{{ post.title }}</h3>
+  </a>
+  <p>{{ post.content }}</p> 
+{% endfor %}
