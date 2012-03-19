@@ -1,6 +1,6 @@
 body {
-    background-color:AntiqueWhite;
-    text-align:center
+    text-align:center;
+    font-family:Helvetica;
 }
 
 h1 {
@@ -8,13 +8,25 @@ h1 {
 }
 
 h2 {
-    font-size:35px;
+    font-size:14px;
+    font-style:Italic;
+    color:Grey;
 }
 
 h3 {
     font-size:30px;
 }
 
-p {
+h4 {
     font-size:14px;
+    font-style:Italic;
+    color:Grey;
+}
+
+p {
+    font-size:16px;
+}
+
+a {
+    color:Black;
 }
