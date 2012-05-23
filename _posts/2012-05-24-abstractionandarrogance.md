@@ -1,0 +1,28 @@
+---
+layout: post
+title: Arrogance and Abstraction
+---
+
+I am sometimes surprised by the arrogance of some young programmers. I am of course a young programmer, and I will not pretend that I am somehow totally free of this affliction, but I want to think that I am a bit more humble. Yes, you can program. Great! You are capable of building all kinds of different things for all kinds of different people. You are a one team capable of barking orders at the most powerful tool man has ever made.
+
+But do remember where we have come from! It has been said that we stand on the shoulders of giants. Let us enumerate the giants we stand on top of, one-by-one, and figure out exactly how high in the sky we are lifted.
+
+First of all, you might have some vague sense of how all the tools you use (bash, vim, git, etc.) work, but you certainly don't read the source code of every tool you pick up. You certainly don't contribute to every project you benefit from. How could you? We only have so much time on this Earth, after all. There are girls and boys to chase after, friends to make, and mountains to climb.
+
+Remember that programming might be the only profession in the world where basically all of the great tools -- text editors, source control, *even whole operating systems* -- are available for free. Carpenters have to buy hammers and nails, but we just download source off the internet without spending a dime. (We do need to buy a computer, which, I must admit, does cost a pretty penny.)
+
+Even more generally, you probably don't *really* know how your operating system works. You are either on OS X or Windows and don't have access to the source code, or maybe you have read a bit of the Linux source but certainly not the whole thing. (If you have read Linux source, I am impressed; I have sadly read none.) Even if you do know how your system works, you certainly did not write your operating system. Remember that without your operating system, you would be out of a job.
+
+You probably do much of your programming in Python, Ruby, or Java. So do I; very high level languages are incredibly productive. More importantly, they are just plain fun to code in. You do realize though that every line of Python that you right is probably translated into many lines of C. That C is then translated into hundreds of lines of assembly. (I use 'translated' loosely here.) So for every line of Python I write, some programmer I've never met writes hundreds of lines of code for me. That should make you feel at least a little grateful, right?
+
+Let's say that you program exclusively in C. Maybe C really is the best language for the software you are writing, but maybe exclusively programming in C is another manifestation of your out-of-control ego. First of all, what happened to using the best tool for the job. If Python is fast enough for the problem I am trying to solve, and I can code more quickly and reliably in Python, why would principle (a proud man's worst enemy!) motivate me to do more work than I need to? 
+
+Maybe, you think that because you avoid all the abstractions of higher-level languages, you are somehow better and "purer." Because you do pointer arithmetic and bit shifting, you *really* understand what is going on in a computer. No, you don't. You understand C programming. Maybe you understand a little bit of assembly too. But you don't understand the electricity running through the circuits. You don't understand logic gates and the digital abstraction. (To be clear, neither do I!) You write 3 + 2; and think 5. Obviously, right? But do you know how electrical signals running through wires perform mathematical calculations? Even if you do understand all this, your still eternally in debt to the guy who designed the microchip, the factory workers that put it together, and the professor whose mathematics laid the foundation for all of electric engineering.
+
+Even the electrical engineers are in debt to the physicists, whose theoretical work is the mathematical basis for everything they create. Electrical engineers work with Kirchhoff's Voltage and Current Laws, not the nightmare that is Maxwell's equations. That abstraction is possible because of people that are neither me nor you.
+
+Despite all that theoretical physics has made possible, it is not somehow the holy grail of man's progress. Even Schrodinger's equation is just a model -- an abstraction! -- for what actually happens in nature. It is a convenient mathematical system to describe the physical world. The physicists are in debt to nature -- the only thing that really is -- for every man needs *something* to motivate their axioms.
+
+My point is *not* that you don't understand all this stuff. I bet you know far more of electric engineering, computer internals, and low-level coding than I do. But I think all hackers forget to be grateful from time to time. There is something very God-like about the power of code. You can build really powerful things in the smallest of teams. There is nothing else quite like that in the world. Engineers need construction workers, materials, and all kind of other things to remind them that they are just men. Film makers need actors cameras, and a hell of a lot of money. But we can create all on our own, leaving us with a nasty God-complex.
+
+Whenever I feel the hubris building up inside of me, I remember all the people I am forever in debt to. I remember that everything I create is the work of the many people before me. The fraction of the work that is *truly* mine is the smallest sliver imaginable. If anything is able to move a scientist to prayer, it is this.

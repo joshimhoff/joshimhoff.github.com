@@ -1,10 +1,10 @@
 body {
-    font-family:Helvetica;
+    font-family:Verdana;
     text-align:center;
     margin-left:auto;
     margin-right:auto;
     width:600px;
-    background-color:black;
+    background-color:#787878;
 }
 
 #main {
@@ -19,7 +19,7 @@ h1 {
 h2 {
     font-size:14px;
     font-style:Italic;
-    color:Grey;
+    color:#787878;
 }
 
 h3 {
@@ -29,7 +29,7 @@ h3 {
 h4 {
     font-size:14px;
     font-style:Italic;
-    color:Grey;
+    color:#787878;
 }
 
 p {
