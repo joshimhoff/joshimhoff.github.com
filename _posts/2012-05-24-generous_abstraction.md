@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abstractions are Generous
+title: Generous Abstraction
 ---
 
 It is sometimes said that programmers stand on the shoulders of giants. (It is remarkable how much code has not only been written before us but also given to us free of charge.) The project of this essay is to enumerate the giants, one-by-one, whose shoulders we stand on, and figure out exactly how high into the sky we are lifted.
