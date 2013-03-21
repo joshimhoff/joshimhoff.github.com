@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Musings on More than Code 
+title: Things Get Crazy
 ---
  
 {% for post in site.posts %}
-  <a href='{{ post.url }}'>
-    <h3>{{ post.title }}</h3>
-  </a>
-  <h4> {{post.date | date: "%B %d, %Y"}} </h4>
-  <p>{{ post.content }}</p> 
+  <div id="post">
+    <a href='{{ post.url }}'>
+      <h1>{{ post.title }}</h1>
+    </a>
+    <h2> {{post.date | date: "%B %d, %Y"}} </h2>
+    <p>{{ post.content }}</p> 
+  </div>
 {% endfor %}

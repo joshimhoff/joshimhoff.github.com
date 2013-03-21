@@ -2,6 +2,8 @@
 layout: default
 ---
 
-<h3 class="content"> {{page.title}} </h2>
-<h4> {{page.date | date: "%B %d, %Y"}} </h4>
-{{ content }}
+<div id="post">
+  <h1 class="content"> {{page.title}} </h1>
+  <h2> {{page.date | date: "%B %d, %Y"}} </h2>
+  {{ content }}
+</div>
