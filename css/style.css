@@ -10,13 +10,33 @@ body {
 
 #post {
     padding:10px;
+    margin-top:15px;
+    margin-bottom:15px;
     background-color:white;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; /* future proofing */
+    -khtml-border-radius: 10px; /* for old Konqueror browsers */
+    box-shadow: 5px 5px 2px #888888;
+}
+
+img {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; /* future proofing */
+    -khtml-border-radius: 10px; /* for old Konqueror browsers */
 }
 
 footer {
     padding:10px;
+    margin-top:15px;
+    margin-bottom:15px;
     color:white;
     background-color:black;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; /* future proofing */
+    -khtml-border-radius: 10px; /* for old Konqueror browsers */
 }
 
 h1 {
