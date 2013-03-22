@@ -25,6 +25,7 @@ img {
     -webkit-border-radius: 10px;
     border-radius: 10px; /* future proofing */
     -khtml-border-radius: 10px; /* for old Konqueror browsers */
+    box-shadow: 5px 5px 2px #888888;
 }
 
 footer {
@@ -37,6 +38,7 @@ footer {
     -webkit-border-radius: 10px;
     border-radius: 10px; /* future proofing */
     -khtml-border-radius: 10px; /* for old Konqueror browsers */
+    box-shadow: 5px 5px 2px #888888;
 }
 
 h1 {
